@@ -21,3 +21,4 @@
 当前版本使用浏览器 `localStorage` 保存新增工单和工作信息，同时支持把“工作信息”同步到 GitHub 仓库中的 `data/worklog.json`。
 
 GitHub 同步需要 Fine-grained personal access token，并给目标仓库开启 `Contents` 读写权限。测试阶段建议使用 private 仓库和短期 token。
+deploy trigger
